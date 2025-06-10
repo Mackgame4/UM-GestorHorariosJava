@@ -1,0 +1,15 @@
+código;tipo;início;fim;dia;sala;capacidade
+J301N1:T1;T;08:00;10:00;segunda-feira;Ed.1 1.01;20
+J301N1:TP1;TP;14:00;16:00;quarta-feira;Ed.2 2.02;10
+J302N1:T1;T;10:00;12:00;terça-feira;Ed.1 1.02;20
+J302N1:TP1;TP;16:00;18:00;quinta-feira;Ed.2 2.01;10
+J304N2:T1;T;08:00;10:00;sexta-feira;Ed.1 1.01;20
+J304N2:TP1;TP;10:00;12:00;segunda-feira;Ed.2 2.02;10
+J304N3:T1;T;12:00;14:00;terça-feira;Ed.2 2.01;20
+J304N3:TP1;TP;14:00;16:00;quarta-feira;Ed.1 1.02;10
+J304N4:T1;T;08:00;10:00;quinta-feira;Ed.2 2.02;20
+J304N4:TP1;TP;10:00;12:00;sexta-feira;Ed.1 1.01;10
+J305N2:T1;T;12:00;14:00;segunda-feira;Ed.2 2.01;20
+J305N2:TP1;TP;14:00;16:00;terça-feira;Ed.1 1.02;10
+J305N3:T1;T;08:00;10:00;quarta-feira;Ed.2 2.02;20
+J305N3:TP1;TP;10:00;12:00;quinta-feira;Ed.1 1.01;10
